@@ -1,0 +1,26 @@
+.registration-container {
+    width: 100%;
+    height: auto;
+    background-color: #b7e2c8; 
+    padding: 20px;
+    display: flex;
+    justify-content: center
+  
+  }
+  
+  .heading {
+      margin-top: 50px;
+      margin-bottom: 25px;
+      background-color: #0d4523;
+      padding: 5px;
+      border-radius: 8px;
+      color: white;
+      text-align: center;
+    }
+  
+    .img-fluid {
+      max-width: 80%;
+      height: auto;
+      margin: 0 auto;
+      margin-top: 50px;
+    }
